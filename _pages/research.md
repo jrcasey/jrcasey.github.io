@@ -7,7 +7,7 @@ author_profile: true
 
 ## [CBIOMES Project](/CBIOMESResearch/)
 
-##[Nutrient Uptake](/nutrientUptake/)
+## [Nutrient Uptake](/nutrientUptake/)
 
-##[Some thoughts about Monod, Droop and Blackman](/MonodDroopBlackman/)
+## [Some thoughts about Monod, Droop and Blackman](/MonodDroopBlackman/)
 
