@@ -16,19 +16,19 @@ excerpt:
 intro: 
   - excerpt: 'My interests are in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.'
 feature_row1:
-  - image_path: assets/images/Figure_5.jpg
-    alt: "Figure 5"
-    title: "Nutrient uptake"
-    excerpt: "A mechanistic model of substrate limited microbial growth kinetics."
-    url: "/nutrientUptake/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/images/MSE_Pro_MESO-SCOPE.jpg
     alt: "MESO-SCOPE contour plots"
     title: "CBIOMES"
     excerpt: "Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling of Marine Ecosystems"
     url: "/CBIOMESResearch/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: assets/images/Figure_5.jpg
+    alt: "Figure 5"
+    title: "Nutrient uptake"
+    excerpt: "Check out our mechanistic model of substrate limited microbial growth kinetics. A way to derive nutrient transport rates from physiological data."
+    url: "/nutrientUptake/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
