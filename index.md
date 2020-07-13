@@ -19,7 +19,7 @@ feature_row1:
   - image_path: /assets/images/MSE_Pro_MESO-SCOPE.jpg
     alt: "MESO-SCOPE contour plots"
     title: "CBIOMES"
-    excerpt: "Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling of Marine Ecosystems"
+    excerpt: "Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling of Marine Ecosystems. See a case-study applying detailed mechanistic models of Prochlorococcus physiology and metabolism across an eddy-dipole."
     url: "/CBIOMESResearch/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,7 +35,7 @@ feature_row3:
   - image_path: assets/images/Figure_3.jpg
     alt: "Figure 3"
     title: "Reconciling hyperbolic and stepwise-linear kinetics"
-    excerpt: "Some thoughts about Monod, Droop and Blackman."
+    excerpt: "Some thoughts about Monod, Droop and Blackman, and how to reconcile them with a mechanistic model."
     url: "/MonodDroopBlackman/"
     btn_label: "Read More"
     btn_class: "btn--primary"
