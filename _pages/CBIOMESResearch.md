@@ -1,12 +1,10 @@
 ---
 layout: single
-title: Research
-permalink: /research/
+title: CBIOMES
+permalink: /CBIOMESResearch/
 author_profile: true
 ---
 
-
-## CBIOMES Project
 ####  Constraint-based modeling of marine microbial community metabolism and physiology
 
 > As part of the [CBIOMES Project](https://cbiomes.org), I design detailed models of microbial metabolism and physiology to simulate microbial community dynamics in the marine environment. 
@@ -34,7 +32,3 @@ growth temperatures derived from a machine learning algorithm. Here is a teaser:
 
 > There seems to be either a boundless flow of genes or a jaw-dropping amount of persistent micro-diversity within the *Prochlorococcus* community. We could never hope to capture all the instances in GSMMs, so instead we are evolving *in silico*
 strains synthesized from the pangenome using our PanGEM Toolbox. In addition to the 48 isolates, the pangenome also includes genes from 97 strains built from MAGs and SAGs, and we plan to include an additional 489 SAGs recently published by [Berube et al., 2018](https://www.nature.com/articles/sdata2018154).     
-
-
-## Biological thermodynamics
-> Something "heating up" here... yuk yuk yuk.
