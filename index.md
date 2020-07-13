@@ -1,0 +1,49 @@
+---
+layout: default
+author_profile: true
+header:
+  image: /assets/images/Banner.jpg
+#header:
+#  overlay_color: "#000"
+#  overlay_filter: "0.5"
+#  overlay_image: /assets/images/Banner.jpg
+#  actions:
+#    - label: "Download"
+#      url: "https://github.com/jrcasey/jrcasey.github.io"
+#  caption: 
+title: "Home"
+excerpt:
+intro: 
+  - excerpt: 'My interests are in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.'
+feature_row:
+  - image_path: assets/images/Figure_3.jpg
+    alt: "Figure 3"
+    title: "Nutrient uptake"
+    excerpt: "A mechanistic model of substrate limited microbial growth kinetics."
+    url: "/nutrientUptake/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/MSE_Pro_MESO-SCOPE.jpg
+    image_caption: "MESO-SCOPE simulation"
+    alt: "MESO-SCOPE contour plots"
+    title: "CBIOMES"
+    excerpt: "Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling of Marine Ecosystems"
+    url: "/CBIOMESResearch/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+#  - image_path: /assets/images/poster.pdf
+#    title: "Placeholder 3"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
+
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
