@@ -6,6 +6,16 @@ author_profile: true
 ---
 ### Science Family
 [Advisors, co-authors, collaborators](/ScienceFam/)
+
+### Curriculum vitae
+[CV_20200504](/assets/docs/CV_20200504.pdf)
+
+### Contact 
+email: jrcasey at mit dot edu
+54-1511
+Massachusetts Institute of Technology
+Cambridge, MA 02142
+
 ### Affiliations
 Postdoctoral Fellow  
 Earth, Atmospheric, and Planetary Sciences  
@@ -15,11 +25,6 @@ Research Affiliate
 School of Ocean and Earth Science and Technology  
 University of Hawai'i at Manoa  
 
-### Contact 
-email: jrcasey at mit dot edu
-
-### Curriculum vitae
-[CV_20200504](/assets/docs/CV_20200504.pdf)
 
 #### External links  
 
