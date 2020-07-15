@@ -5,7 +5,7 @@ permalink: /ScienceFam/
 author_profile: true
 ---
 
-> If you haven't done this, it's a fun exercise!
+> If you haven't tried this already, it's fun to track your colleagues/friends as they move along...
 
 # Advisors
 * PostDoc: [Michael J. Follows]()
