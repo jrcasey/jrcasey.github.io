@@ -12,8 +12,8 @@ author_profile: true
 
 ### Contact 
 email: jrcasey at mit dot edu
-54-1511
-Massachusetts Institute of Technology
+54-1511  
+Massachusetts Institute of Technology  
 Cambridge, MA 02142
 
 ### Affiliations
