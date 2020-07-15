@@ -5,19 +5,19 @@ permalink: /ScienceFam/
 author_profile: true
 ---
 
-> If you haven't tried this already, it's fun to track your colleagues/friends as they move along...
+> Not entirely sure why I did this, but it's fun to keep up with your colleagues...
 
 # Advisors
-* PostDoc: [Michael J. Follows]()
-* Ph.D.: [David M. Karl]()
-* REU/Technician: [Michael W. Lomas]()
+* PostDoc: [Michael J. Follows](http://mick.mit.edu)
+* Ph.D.: [David M. Karl](https://hahana.soest.hawaii.edu/lab/dkarl.html)
+* REU/Technician: [Michael W. Lomas](https://www.bigelow.org/about/people/mlomas.html)
 
 # Co-authors
-* [James W. Ammerman]()
-* [Virginia Armbrust]()
-* [Jerome P. Aucan]()
-* [Frank O. Aylward]()
-* [Benedetto Barone]()
+* [James W. Ammerman](https://www.somas.stonybrook.edu/people/faculty/james-ammerman/)
+* [Virginia Armbrust](https://armbrustlab.ocean.washington.edu)
+* [Jerome P. Aucan](http://www.legos.obs-mip.fr/members/aucan)
+* [Frank O. Aylward](https://www.aylwardlab.com)
+* [Benedetto Barone](https://www.linkedin.com/in/benedetto-barone-8361671a)
 * [Doug W. Bell]()
 * [Sara J. Bender]()
 * [Karin M. Bjorkman]()
@@ -104,4 +104,3 @@ author_profile: true
 * [Jesse M. Wilson]()
 * [Samuel T. Wilson]()
 * [Jon P. Zehr]()
-
