@@ -8,7 +8,7 @@ author_profile: true
 [Advisors, co-authors, collaborators](/ScienceFam/)
 
 ### Curriculum vitae
-[CV_20200504](/assets/docs/CV_20200504.pdf)
+[CV_20200504](/assets/docs/CV_20200504.pdf){:target="_blank"}
 
 ### Contact 
 email: jrcasey at mit dot edu
@@ -29,7 +29,7 @@ University of Hawai'i at Manoa
 #### External links  
 
 [Simons Foundation](https://www.simonsfoundation.org/team/john-casey/){:target="_blank"}  
-[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}
+[EAPS-MIT](http://paocweb.mit.edu/people/jrcasey){:target="_blank"}{:target="_blank"}
 
-[ResearchGate](https://www.researchgate.net/profile/John_Casey)  
+[ResearchGate](https://www.researchgate.net/profile/John_Casey){:target="_blank"}  
 [Mendeley](https://www.mendeley.com/profiles/john-casey4/?viewAsOther=true){:target="_blank"} 
