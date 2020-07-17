@@ -3,14 +3,6 @@ layout: single
 author_profile: true
 header:
   image: /assets/images/Banner.jpg
-#header:
-#  overlay_color: "#000"
-#  overlay_filter: "0.5"
-#  overlay_image: /assets/images/Banner.jpg
-#  actions:
-#    - label: "Download"
-#      url: "https://github.com/jrcasey/jrcasey.github.io"
-#  caption: 
 title: ""
 excerpt:
 intro: 
@@ -41,9 +33,6 @@ feature_row3:
     url: "/MonodDroopBlackman/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-#  - image_path: /assets/images/poster.pdf
-#    title: "Placeholder 3"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 ### A bit about me
