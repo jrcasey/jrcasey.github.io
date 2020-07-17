@@ -46,10 +46,13 @@ feature_row3:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-# A bit about me
-{% include feature_row id="intro" type="center" %}
+### A bit about me
+Postdoc at **[MIT](https://eapsweb.mit.edu)**  
+Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**  
 
-# Recent works and perspectives
+*I'm interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.* [More](/about/)
+
+### Recent works and perspectives
 
 {% include feature_row id="feature_row1" type="left" %} 
 
