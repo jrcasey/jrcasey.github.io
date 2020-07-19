@@ -11,7 +11,8 @@ author_profile: true
 [CV_20200504](/assets/docs/CV_20200504.pdf){:target="_blank"}
 
 ### Contact 
-email: jrcasey at mit dot edu
+email: jrcasey at mit dot edu  
+address:  
 54-1511  
 Massachusetts Institute of Technology  
 Cambridge, MA 02142
