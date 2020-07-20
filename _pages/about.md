@@ -17,6 +17,8 @@ address:
 Massachusetts Institute of Technology  
 Cambridge, MA 02142
 
+![Tetris GIF](/assets/images/Tetris2.gif)
+
 ### Affiliations
 Postdoctoral Fellow  
 Earth, Atmospheric, and Planetary Sciences  
