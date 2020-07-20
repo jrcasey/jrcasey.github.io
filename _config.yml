@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Casey"
+title                    : "John Casey's homepage"
 title_separator          : "-"
 subtitle                 : "e komo mai"
 name                     : "John Casey"
-description              : "My homepage - hosted on GitHub"
+description              : "Welcome to my homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
