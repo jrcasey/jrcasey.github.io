@@ -39,7 +39,7 @@ feature_row3:
 Postdoc at **[MIT](https://eapsweb.mit.edu)**  
 Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**  
 
-> *I'm interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.* [More](/about/)
+> *I'm interested in the coordination and optimization of cellular scale processes, how objectives - like fitness or entropy production - are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.* [More](/about/)
 
 ### Recent works and perspectives
 
