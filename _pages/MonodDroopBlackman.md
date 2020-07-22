@@ -10,13 +10,13 @@ author_profile: true
 Let's start by describing the three models as they apply to a chemostat: Monod's model relates growth to a **hyperbolic** function of the **external** nutrient concentration; Droop's model relates growth to a **hyperbolic** function of the **internal** nutrient concentration; Blackman's model relates growth to a **piecewise-linear** function of the **external** nutrient concentration:  
 
 
-| :--- | :--- | :--- |
+| :------- | :------- | :------- |
 | Monod: | $\mu = \frac{\mu_{max}S}{k_{M} + S}$  | |
-| Droop: | $\mu = \mu_{max}(1-\frac{Q_{max}}{Q})$  | |
+| Droop: | $\mu = \mu_{max}(1-\frac{Q_{min}}{Q})$  | |
 | Blackman: | $\mu = \rho S$ | $\forall S \leq S'$ |
 | | $\mu = \mu_{max}$ | $\forall S > S'$ |
 
-where $S$ is the external substrate concentration,$\mu_{max}$ is the maximum growth rate, $k_{M}$ is the half-saturation concentration, $Q$ and $Q_{max}$ are the measured and maximum quota of the limiting substrate, resp., $\rho$ is a scalar, and $S'$ is the minimum resource concentration required for maximal growth. Note that I'm ignoring maintenance requirements 
+where $S$ is the external substrate concentration,$\mu_{max}$ is the maximum growth rate, $k_{M}$ is the half-saturation concentration, $Q$ and $Q_{min}$ are the measured and minimum quota of the limiting substrate, resp., $\rho$ is a scalar, and $S'$ is the minimum resource concentration required for maximal growth. Note that I'm ignoring maintenance requirements 
 
 Before we discuss the foundations and merits of these wildly different views, I will mention the obvious: these are by no means the only descriptions of substrate-limited growth (c.f., Westerhoff and probably hundreds of elaborations and witches brews of each), but that's well beyond the scope of this rant.
 
