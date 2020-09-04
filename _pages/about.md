@@ -8,7 +8,6 @@ author_profile: true
 [Advisors, co-authors, collaborators](/ScienceFam/)
 
 ### Curriculum vitae
-[CV_20200504](/assets/docs/CV_20200504.pdf){:target="_blank"}
 [CV_20200504](/CV/)
 
 ### Contact 
