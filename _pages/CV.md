@@ -71,7 +71,7 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 15. Wilson, S.T., Hawko, N.J., Armbrust, E.V., Barone, B., Björkman, K.M., Boysen, A.K., Burgos, M., Burrell, T.J., **Casey, J.R.**, DeLong, E.F., Dugenne, M., Dutkiewicz, S., Dyhrman, S.T., Ferrón, S., Follows, M.J., Foreman, R.K., Funkey, C.P., Harke, M.J., Henke, B.A., Hill, C.N., Hynes, A.M., Ingalls, A.E., Jahn, O., Kelly, R.L., Knapp, A.N., Letelier, R.M., Ribalet, F., Shimabukuro E.M., Tabata, R.K.S., Turk-Kubo, K.A., White, A.E., Zehr, J.P., John, S., Karl, D.M., 2019 Kīlauea lava fuels phytoplankton bloom in the North Pacific Ocean. *Science* 365, 1040-1044.
 
-16. **Casey, J.R.**, Follows, M.J., (in review). A steady-state model of microbial acclimation to substrate limitation. *PLOS Computational Biology*
+16. **Casey, J.R.**, Follows, M.J., (*in press*). A steady-state model of microbial acclimation to substrate limitation. *PLOS Computational Biology*
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
@@ -145,6 +145,7 @@ Journal of Marine Systems
 Journal of Plankton Research  
 Limnology and Oceanography  
 Marine Biology  
+mSystems  
 Proceedings of the National Academy of Sciences of the United States of America  
 
 ## Professional Societies  
