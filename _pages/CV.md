@@ -7,8 +7,7 @@ author_profile: false
 
 
 
-# John R. Casey - Curriculum vitae 
-(Updated 08/17/2020)
+(Updated 12/29/2020)
 ## Correspondence
 Department of Earth, Atmospheric and Planetary Science  
 Massachusetts Institute of Technology  
