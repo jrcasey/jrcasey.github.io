@@ -16,6 +16,7 @@ author_profile: true
 <video src="/assets/images/Casey_narration.mp4" poster="/assets/images/poster.pdf" width="640" height="400" controls preload></video>
 
 
+
 ##### Mesoscale dynamics of *Prochlorococcus*
 
 > **Update:** Our first full-scale simulation -- *Prochlorococcus* growth across an eddy dipole transect -- is complete! We are thrilled with the results and are currently sifting through all the data to develop a compelling story. 
