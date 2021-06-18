@@ -3,8 +3,9 @@ layout: collection
 title: Research
 permalink: /research/
 author_profile: true
----
+--- 
 
+Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling 
 #### [CBIOMES Project](/CBIOMESResearch/)
 <img src="/assets/images/MSE_Pro_MESO-SCOPE.jpg" alt="MSE figure" width="600">  
 
