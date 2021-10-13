@@ -154,6 +154,8 @@ Journal of Plankton Research
 Limnology and Oceanography  
 Marine Biology  
 mSystems  
+National Science Foundation
+Nature Communications
 Proceedings of the National Academy of Sciences of the United States of America  
 
 ## Professional Societies  
