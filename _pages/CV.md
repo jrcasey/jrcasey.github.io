@@ -25,7 +25,7 @@ Email: jrcasey at mit dot edu
 ## Research Interests
 > Microbial oceanography, biogeochemical cycles, ecological stoichiometry, biological thermodynamics, modeling microbial metabolism and physiology.  
 
-I’m interested in the coordination and optimization of cellular scale processes, how objectives - like fitness or entropy production - are influenced by the streams of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.  
+I am interested in the coordination and optimization of cellular scale processes, how objectives - like fitness or entropy production - are influenced by the streams of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.  
 
 ## Education
 Ph.D. Oceanography (May, 2017) Dept. of Oceanography, School of Ocean and Earth Science and Technology, University of Hawai`i, Mānoa, Honolulu, HI. Advisor: David M. Karl [Dissertation](assets/docs/Dissertation_Casey2017.pdf){:target="_blank"}  
@@ -81,6 +81,12 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 16. **Casey, J.R.**, Follows, M.J., 2020. A steady-state model of microbial acclimation to substrate limitation. *PLOS Computational Biology* 16, e1008140.
 
+17. Muratore, D., Boysen, A.K., Harke, M.J., Becker, K.W., **Casey, J.R.**, Coesel, S.N., Mende, D.R., Wilson, S.T., Aylward, F.O., Eppley, J.M., Vislova, A., Peng, S., Rodriguez-Gonzales, R.A., Beckett, S.J., Armbrust, E.V., DeLong, E.G., Karl, D.M., White, A.E., Zehr, J.P., Van Mooy, B.A.S., Dyhrman, S.T., Ingalls, A.E., Weitz, J.S., *in review*. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. *Nature Ecology and Evolution*.
+
+18. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., *in review*. Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology. *Science Advances*.
+
+19. Mattern, J.P., Glauninger, K., Britten, G.L., **Casey, J.R.**, Hyun, S., Wu, Z., Armbrust, E.V., Harchaoui, Z., Ribalet, F., *in review*. A Bayesian approach to modeling phytoplankton population dynamics from size distribution time series. *PLOS Computational Biology*.
+
 ## Seminars, Symposia, Workshops, and Abstracts
 
 1. **Casey, J.R.**, Sancho, G., Zooplankton distribution across the South Atlantic Bight. (College of Charleston, Research Poster Session, 2006)
@@ -113,15 +119,15 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 15. **Casey, J.R.**, Karl, D.M., Collimation of transcriptional noise by a cyanobacterial metabolic network. (Simons Collaboration on Ocean Processes and Ecology 2016, New York, NY)
 
-16. **Casey, J.R.**, Mardinoglu, A., Nielsen, J., Karl, D.M., Towards metabolic flux models of marine microbial communities. (Modeling Marine Microbial Communities and Biogeochemical Cycles 2017, New York, NY)
+16. **Casey, J.R.**, Mardinoglu, A., Nielsen, J., Karl, D.M., Towards metabolic flux models of marine microbial communities. (Simons Foundation: Modeling Marine Microbial Communities and Biogeochemical Cycles 2017, New York, NY)
 
 17. **Casey, J.R.**, Müller, C.R., Pangenome-scale metabolic network reconstruction of *Prochlorococcus*. (ASLO/AGU Ocean Sciences Meeting 2018, Portland, OR)
 
-18. **Casey, J.R.**, Towards a mechanistic model of marine microbial community metabolism. (SOEST Department of Oceanography Seminar, 2018, Honolulu, HI)
+18. **Casey, J.R.**, Towards a mechanistic model of marine microbial community metabolism. (SOEST Department of Oceanography Seminar, 2018, Honolulu, HI) *Invited
 
 19. **Casey, J.R.**, Müller, C.R., Follows, M.J., Simulations of *Prochlorococcus* growth and metabolism in the North Pacific Subtropical Gyre. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2018, New York, NY)
 
-20. **Casey, J.R.**, Follows, M.J., Towards physiological adaptations in Flux Balance Analysis. (Macromolecular Modeling Workshop, 2019, Boston, MA)
+20. **Casey, J.R.**, Follows, M.J., Towards physiological adaptations in Flux Balance Analysis. (Simons Foundation: Macromolecular Modeling Workshop, 2019, Boston, MA)
 
 21. **Casey, J.R.**, Müller, C.L., Bien, J., Nielsen, J., Karl, D.M., Follows, M.J., Simulating marine microbial growth and metabolism. (Biofuels Scientific Focus Area Meeting, Lawrence Livermore National Laboratory, 2019, Livermore, CA)
 *Invited
@@ -129,6 +135,14 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 22. Vallino, J.J., **Casey, J.R.**, Symposium: Cellular-scale Processes. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2019, New York, NY)
 
 23. **Casey, J.R.**, Follows, M.J., A model of adaptive nutrient transport. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2019, New York, NY)
+
+24. **Casey, J.R.**, Metabolic and Physiological Modeling. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2020, remote)
+
+25. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., Pangenome-scale simulation of growth, metabolism and physiological acclimation of *Prochlorococcus* strainss across a meridional transect. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2020, remote)
+
+26. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., Simulating microbial growth, metabolism and physiology. (Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems Annual Meeting, 2021, remote)
+
+27. **Casey, J.R.**, Genome-scale constraint-based simulations of microbial metabolism and physiology. (Ocean Carbon Biogeochemistry Scoping Workshop: Laying the foundation for a potential future BioGeoSCAPES program, 2021, remote) *Invited 
 
 ## Research Grants
 Scholar – Simons Foundation (#549894): Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (2017-present). 341,521 USD  
