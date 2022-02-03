@@ -81,11 +81,13 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 16. **Casey, J.R.**, Follows, M.J., 2020. A steady-state model of microbial acclimation to substrate limitation. *PLOS Computational Biology* 16, e1008140.
 
-17. Muratore, D., Boysen, A.K., Harke, M.J., Becker, K.W., **Casey, J.R.**, Coesel, S.N., Mende, D.R., Wilson, S.T., Aylward, F.O., Eppley, J.M., Vislova, A., Peng, S., Rodriguez-Gonzales, R.A., Beckett, S.J., Armbrust, E.V., DeLong, E.G., Karl, D.M., White, A.E., Zehr, J.P., Van Mooy, B.A.S., Dyhrman, S.T., Ingalls, A.E., Weitz, J.S., *in review*. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. *Nature Ecology and Evolution*.
+17. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., Follows, M.J., White, A.E., Ribalet, F., Weitz, J.S., 2021. Diel population dynamics and mortality of *Prochlorococcus* in the North Pacific Subtropical Gyre. *bioRxiv* doi:10.1101/2021.06.15.448546.
 
-18. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., *in review*. Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology. *Science Advances*.
+18. Mattern, J.P., Glauninger, K., Britten, G.L., **Casey, J.R.**, Hyun, S., Wu, Z., Armbrust, E.V., Harchaoui, Z., Ribalet, F., 2022. A Bayesian approach to modeling phytoplankton population dynamics from size distribution time series. *PLoS Computational Biology* 18:e1009733.
 
-19. Mattern, J.P., Glauninger, K., Britten, G.L., **Casey, J.R.**, Hyun, S., Wu, Z., Armbrust, E.V., Harchaoui, Z., Ribalet, F., *in review*. A Bayesian approach to modeling phytoplankton population dynamics from size distribution time series. *PLOS Computational Biology*.
+19. Muratore, D., Boysen, A.K., Harke, M.J., Becker, K.W., **Casey, J.R.**, Coesel, S.N., Mende, D.R., Wilson, S.T., Aylward, F.O., Eppley, J.M., Vislova, A., Peng, S., Rodriguez-Gonzalez, R. A., Beckett, S.J., Armbrust, E.V., DeLong, E.F., Karl, D.M., White, A.E., Zehr, J.P., Van Mooy, B.A.S., Dyhrman, S.T., Ingalls, A.E., Weitz, J.S., 2022. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. *Nature Ecology and Evolution* doi:10.1038/s41559-021-01606-w.
+
+20. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., 2022. Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology. *Science Advances* 8:eabl4930.
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
@@ -154,12 +156,14 @@ Fellow – National Science Foundation: Graduate Research Fellowship Program (20
 Fellow – National Science Foundation: Research Experience for Undergraduates (2005)  
 
 ## Peer Review Contributions
+Applied and Environmental Microbiology
 Aquatic Microbial Ecology  
 Continental Shelf Research  
 Deep Sea Research  
 eLife  
 Environmental Monitoring and Assessment  
 Flanders Research Foundation (Fonds Wetenschappelijk Onderzoek)  
+Frontiers in Marine Science
 Geophysical Research Letters  
 ISME Journal   
 Journal of Geophysical Research: Oceans  
