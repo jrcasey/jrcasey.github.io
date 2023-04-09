@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/Banner.jpg
+  image: /assets/images/Banner2.jpg
 title: ""
 excerpt:
 intro: 
