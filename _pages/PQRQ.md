@@ -1,11 +1,10 @@
 ---
 layout: single
-title: Nutrient Uptake
-permalink: /nutrientUptake/
+title: Redox-selective remineralization decouples marine carbon and oxygen cycles
+permalink: /PQRQ/
 author_profile: true
 ---
 
-#### Redox-selective remineralization decouples marine carbon and oxygen cycles
 The global biogeochemical cycles of oxygen and carbon are coupled by the stoichiometry of photosynthesis and respiration (the photosynthetic quotient PQ and respiratory quotient RQ). A widespread assumption, that these stoichiometric ratios counter-balance one another, provides foundation for a key concept of biogeochemistry - that carbon sequestration is balanced by a surplus of oxygen to the atmosphere. *But, what if that assumption was wrong?*
 
 
