@@ -10,6 +10,14 @@ intro:
   - excerpt: "Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**"  
   - excerpt: "*I'm interested in the coordination and optimization of cellular scale processes, how objectives are influenced by the flow of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.* [More](/about/)"
 feature_row1:
+  - image_path: assets/images/PQRQ.jpg
+    alt: "PQRQ figure"
+    title: "Redox-selective remineralization decouples marine carbon and oxygen cycles"
+    excerpt: "Exploring how the photosynthetic quotient and the respiratory quotient modulate oxygen and carbon dioxide exchange."
+    url: "/PQRQ/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: assets/images/Figure_3.jpg
     alt: "Figure 3"
     title: "Reconciling hyperbolic and stepwise-linear kinetics"
@@ -17,7 +25,7 @@ feature_row1:
     url: "/MonodDroopBlackman/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: /assets/images/MSE_Pro_MESO-SCOPE.jpg
     alt: "MESO-SCOPE contour plots"
     title: "CBIOMES"
@@ -25,7 +33,7 @@ feature_row2:
     url: "/CBIOMESResearch/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: assets/images/Figure_5.jpg
     alt: "Figure 5"
     title: "A mechanistic model of substrate transport"
@@ -48,3 +56,5 @@ Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="left" %}
