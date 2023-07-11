@@ -9,9 +9,9 @@ author_profile: false
 
 (Updated 7/1/2023)
 ## Correspondence
-Biochemical and Biophysical Group
-Lawrence Livermore National Laboratory
-7000 East Avenue
+Biochemical and Biophysical Group  
+Lawrence Livermore National Laboratory  
+7000 East Avenue    
 Livermore, CA 94550
 
 Department of Earth, Atmospheric and Planetary Science  
