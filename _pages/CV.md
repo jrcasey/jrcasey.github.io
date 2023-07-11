@@ -7,8 +7,13 @@ author_profile: false
 
 
 
-(Updated 12/29/2020)
+(Updated 7/1/2023)
 ## Correspondence
+Biochemical and Biophysical Group
+Lawrence Livermore National Laboratory
+7000 East Avenue
+Livermore, CA 94550
+
 Department of Earth, Atmospheric and Planetary Science  
 Massachusetts Institute of Technology  
 54-1511  
@@ -33,7 +38,11 @@ Ph.D. Oceanography (May, 2017) Dept. of Oceanography, School of Ocean and Earth 
 B.S. Marine Biology, B.A. Spanish (May, 2007) College of Charleston, Charleston, SC.
 
 ## Research Experience and Possitions Held
-Postdoctoral Researcher (July, 2020 - present) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
+Postdoctoral Researcher (September, 2023 - present)
+Biochemical and Biophysical Group,
+Lawrence Livermore National Laboratory, Livermore, CA.
+
+Postdoctoral Researcher (July, 2020 - September, 2023) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
 
 Simons Postdoctoral Scholar (May, 2019 - July, 2020) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
 
@@ -88,6 +97,8 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 19. Muratore, D., Boysen, A.K., Harke, M.J., Becker, K.W., **Casey, J.R.**, Coesel, S.N., Mende, D.R., Wilson, S.T., Aylward, F.O., Eppley, J.M., Vislova, A., Peng, S., Rodriguez-Gonzalez, R. A., Beckett, S.J., Armbrust, E.V., DeLong, E.F., Karl, D.M., White, A.E., Zehr, J.P., Van Mooy, B.A.S., Dyhrman, S.T., Ingalls, A.E., Weitz, J.S., 2022. Complex marine microbial communities partition metabolism of scarce resources over the diel cycle. *Nature Ecology and Evolution* doi:10.1038/s41559-021-01606-w.
 
 20. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., 2022. Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology. *Science Advances* 8:eabl4930.
+
+21. Smyth, T., Moffat, D., Tarran, G., Sathyendranath, S., Ribalet, F., **Casey, J.R.,** 2023. Determining drivers of phytoplankton carbon to chlorophyll ratio at Atlantic Basin scale. *Frontiers in Marine Science* 10:1191216.
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
@@ -147,7 +158,7 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 27. **Casey, J.R.**, Genome-scale constraint-based simulations of microbial metabolism and physiology. (Ocean Carbon Biogeochemistry Scoping Workshop: Laying the foundation for a potential future BioGeoSCAPES program, 2021, remote) *Invited 
 
 ## Research Grants
-Scholar – Simons Foundation (#549894): Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (2017-present). 341,521 USD  
+Scholar – Simons Foundation (#549894): Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (2017-2020). 341,521 USD  
 
 Fellow – Swedish Research Council/National Science Foundation: Graduate Research Opportunities Worldwide (2013-2014). 21,000 USD  
 
@@ -174,7 +185,11 @@ Marine Biology
 mSystems  
 National Science Foundation
 Nature Communications
+Nature Geochemistry
+npj Microbiome
 Proceedings of the National Academy of Sciences of the United States of America  
+Progress in Oceanography
+Spectrum
 
 ## Professional Societies  
 American Society of Limnology and Oceanography  
