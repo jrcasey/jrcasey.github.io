@@ -38,11 +38,11 @@ Ph.D. Oceanography (May, 2017) Dept. of Oceanography, School of Ocean and Earth 
 B.S. Marine Biology, B.A. Spanish (May, 2007) College of Charleston, Charleston, SC.
 
 ## Research Experience and Possitions Held
-Postdoctoral Researcher (September, 2023 - present)
+Postdoctoral Researcher (September, 2022 - present)
 Biochemical and Biophysical Group,
 Lawrence Livermore National Laboratory, Livermore, CA.
 
-Postdoctoral Researcher (July, 2020 - September, 2023) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
+Postdoctoral Researcher (July, 2020 - September, 2022) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
 
 Simons Postdoctoral Scholar (May, 2019 - July, 2020) Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA.
 
