@@ -14,11 +14,6 @@ Lawrence Livermore National Laboratory
 7000 East Avenue    
 Livermore, CA 94550
 
-Department of Earth, Atmospheric and Planetary Science  
-Massachusetts Institute of Technology  
-54-1511  
-Cambridge, MA 02142
-
 Center for Microbial Oceanography: Research and Education  
 School of Ocean and Earth Science and Technology  
 University of Hawai`i, Mānoa  
@@ -99,6 +94,8 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 20. **Casey, J.R.**, Boiteau, R.M., Engqvist, M.K.M., Finkel, Z.V., Li, G., Liefer, J., Muller, C.L., Munoz, N., Follows, M.J., 2022. Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology. *Science Advances* 8:eabl4930.
 
 21. Smyth, T., Moffat, D., Tarran, G., Sathyendranath, S., Ribalet, F., **Casey, J.R.,** 2023. Determining drivers of phytoplankton carbon to chlorophyll ratio at Atlantic Basin scale. *Frontiers in Marine Science* 10:1191216.
+
+22. Moore, L.R., Caspi, R., Campbell, D.A., **Casey, J.R.**, Crevecoeur, S., Lea-Smith, D.J., Long, B., Omar, N.M., Paley, S.M., Schmelling, N.M., Torrado, A., Zehr, J.P., Karp, P.D., 2024. CyanoCyc cyanobacterial web portal. *Frontiers in Microbiology* 15:1340413.
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
