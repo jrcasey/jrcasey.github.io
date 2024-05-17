@@ -14,13 +14,7 @@ Lawrence Livermore National Laboratory
 7000 East Avenue    
 Livermore, CA 94550
 
-Center for Microbial Oceanography: Research and Education  
-School of Ocean and Earth Science and Technology  
-University of Hawai`i, Mānoa  
-1950 East-West Road  
-Honolulu, HI 96822
-
-Email: jrcasey at mit dot edu  
+Email: casey26 at llnl dot gov  
 
 ## Research Interests
 > Microbial oceanography, biogeochemical cycles, ecological stoichiometry, biological thermodynamics, modeling microbial metabolism and physiology.  
@@ -97,9 +91,9 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 22. Moore, L.R., Caspi, R., Campbell, D.A., **Casey, J.R.**, Crevecoeur, S., Lea-Smith, D.J., Long, B., Omar, N.M., Paley, S.M., Schmelling, N.M., Torrado, A., Zehr, J.P., Karp, P.D., 2024. CyanoCyc cyanobacterial web portal. *Frontiers in Microbiology* 15:1340413.
 
-23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., 2024. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications* 15:2105.
+23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., *in press*. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications*
 
-24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., *submitted*. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology*
+24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., *accepted*. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology*
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
@@ -190,6 +184,7 @@ Nature Geochemistry
 npj Microbiome
 Proceedings of the National Academy of Sciences of the United States of America  
 Progress in Oceanography
+Science Advances
 Spectrum
 
 ## Professional Societies  
