@@ -8,21 +8,22 @@ author_profile: true
 [Advisors, co-authors, collaborators](/ScienceFam/)
 
 ### Curriculum vitae
-[CV_20230701](/CV/)
+[CV_20240517](/CV/)
 
 ### Contact 
-email: jrcasey at mit dot edu  
+email: casey26 at llnl dot gov  
 address:  
-54-1511  
-Massachusetts Institute of Technology  
-Cambridge, MA 02142
+Biochemical and Biophysical Group  
+Lawrence Livermore National Laboratory  
+7000 East Avenue    
+Livermore, CA 94550
 
 ![Tetris GIF](/assets/images/Tetris2.gif)
 
 ### Affiliations
 Postdoctoral Fellow  
-Earth, Atmospheric, and Planetary Sciences  
-Massachusetts Institute of Technology  
+Biochemical and Biophysical Group  
+Lawrence Livermore National Laboratory 
 
 Research Affiliate  
 School of Ocean and Earth Science and Technology  
