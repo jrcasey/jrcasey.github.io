@@ -153,41 +153,41 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 27. **Casey, J.R.**, Genome-scale constraint-based simulations of microbial metabolism and physiology. (Ocean Carbon Biogeochemistry Scoping Workshop: Laying the foundation for a potential future BioGeoSCAPES program, 2021, remote) *Invited 
 
 ## Research Grants
-Scholar – Simons Foundation (#549894): Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (2017-2020). 341,521 USD  
+- Scholar – Simons Foundation (#549894): Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems (2017-2020). 341,521 USD  
 
-Fellow – Swedish Research Council/National Science Foundation: Graduate Research Opportunities Worldwide (2013-2014). 21,000 USD  
+- Fellow – Swedish Research Council/National Science Foundation: Graduate Research Opportunities Worldwide (2013-2014). 21,000 USD  
 
-Fellow – National Science Foundation: Graduate Research Fellowship Program (2010-2013). 134,000 USD  
+- Fellow – National Science Foundation: Graduate Research Fellowship Program (2010-2013). 134,000 USD  
 
-Fellow – National Science Foundation: Research Experience for Undergraduates (2005)  
+- Fellow – National Science Foundation: Research Experience for Undergraduates (2005)  
 
 ## Peer Review Contributions
-Applied and Environmental Microbiology
-Aquatic Microbial Ecology  
-Continental Shelf Research  
-Deep Sea Research  
-eLife  
-Environmental Monitoring and Assessment  
-Flanders Research Foundation (Fonds Wetenschappelijk Onderzoek)  
-Frontiers in Marine Science
-Geophysical Research Letters  
-ISME Journal   
-Journal of Geophysical Research: Oceans  
-Journal of Marine Systems  
-Journal of Plankton Research  
-Limnology and Oceanography  
-Marine Biology  
-mSystems  
-National Science Foundation
-Nature Communications
-Nature Geochemistry
-npj Microbiome
-Proceedings of the National Academy of Sciences of the United States of America  
-Progress in Oceanography
-Science Advances
-Spectrum
+- Applied and Environmental Microbiology
+- Aquatic Microbial Ecology  
+- Continental Shelf Research  
+- Deep Sea Research  
+- eLife  
+- Environmental Monitoring and Assessment  
+- Flanders Research Foundation (Fonds Wetenschappelijk Onderzoek)  
+- Frontiers in Marine Science
+- Geophysical Research Letters  
+- ISME Journal   
+- Journal of Geophysical Research: Oceans  
+- Journal of Marine Systems  
+- Journal of Plankton Research  
+- Limnology and Oceanography  
+- Marine Biology  
+- mSystems  
+- National Science Foundation
+- Nature Communications
+- Nature Geochemistry
+- npj Microbiome
+- Proceedings of the National Academy of Sciences of the United States of America
+- Progress in Oceanography
+- Science Advances
+- Spectrum
 
 ## Professional Societies  
-American Society of Limnology and Oceanography  
-American Society of Microbiology
+- American Society of Limnology and Oceanography  
+- American Society of Microbiology
 
