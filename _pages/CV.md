@@ -91,9 +91,9 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 22. Moore, L.R., Caspi, R., Campbell, D.A., **Casey, J.R.**, Crevecoeur, S., Lea-Smith, D.J., Long, B., Omar, N.M., Paley, S.M., Schmelling, N.M., Torrado, A., Zehr, J.P., Karp, P.D., 2024. CyanoCyc cyanobacterial web portal. *Frontiers in Microbiology* 15:1340413.
 
-23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., *in press*. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications*
+23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., *in press*. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications* 15:2105
 
-24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., *accepted*. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology*
+24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., *accepted*. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology* 4:1394084
 
 ## Seminars, Symposia, Workshops, and Abstracts
 

@@ -6,6 +6,7 @@ author_profile: true
 ---
 <a class="btn btn-rss" href="/feed.xml" target="_blank">Subscribe to my RSS feed</a>
 
+# Updated: 2024-08-07
 1. **Casey, J.R.**, Lomas, M.W., Mandecki, J., Walker, D.E., 2007. *Prochlorococcus* contributes to new production in the Sargasso Sea deep chlorophyll maximum. *Geophysical Research Letters* 34, L10604. [PDF](/assets/docs/Casey_2007_GRL.pdf){:target="_blank"} 
 2. **Casey, J.R.**, Lomas, M.W., Michelou, V.K., Dyhrman, S.T., Ammerman, J.W., Sylvan, J.B., 2009. Taxon-specific orthophosphate and ATP utilization in the western Sargasso Sea. *Aquatic Microbial Ecology* 58, 31-44. [PDF](/assets/docs/Casey_2009_AME.pdf){:target="_blank"}
 3. Fawcett, S.E., Lomas, M.W., **Casey, J.R.**, Ward, B.B., Sigman, D.M., 2011. Assimilation of upwelled nitrate by small eukaryotes in the Sargasso Sea. *Nature Geoscience* 4, 1–6. [PDF](/assets/docs/Fawcett_2011_NatGeosci.pdf){:target="_blank"}
@@ -29,3 +30,4 @@ author_profile: true
 21. Smyth, T., Moffat, D., Tarran, G., Sathyendranath, S., Ribalet, F., **Casey, J.R.,** 2023. Determining drivers of phytoplankton carbon to chlorophyll ratio at Atlantic Basin scale. *Frontiers in Marine Science* 10:1191216. [PDF](/assets/docs/Smyth_2023_Frontiers.pdf){:target="_blank"}
 22. Moore, L.R., Caspi, R., Campbell, D.A., **Casey, J.R.**, Crevecoeur, S., Lea-Smith, D.J., Long, B., Omar, N.M., Paley, S.M., Schmelling, N.M., Torrado, A., Zehr, J.P., Karp, P.D., 2024. CyanoCyc cyanobacterial web portal. *Frontiers in Microbiology* 15:1340413 [PDF](/assets/docs/Moore_2024_Frontiers.pdf){:target="_blank"}
 23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., 2024. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications* 15:2105 [PDF](/assets/docs/Beckett_2024_NatCom.pdf){:target="_blank"}
+24. **Casey, J.R.**, Bennion, B.J., D'Haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., 2024. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology* 4:1394084 [PDF](/assets/docs/Casey_2024_FrontierSysBio.pdf){:target="_blank"}
