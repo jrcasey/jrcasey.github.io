@@ -93,7 +93,9 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 23. Beckett, S.J., Demory, D., Coenen, A.R., **Casey, J.R.**, Dugenne, M., Follett, C.L., Connell, P., Carlson, M.C.G., Hu, S.K., Wilson, S.T., Muratore, D., Rodriguez-Gonzalez, R.A., Peng, S., Becker, K.W., Mende, D.R., Armbrust, E.V., Caron, D.A., Lindell, D., White, A.E., Ribalet, F., Weitz, J.S., *in press*. Disentangling top-down drivers of mortality underlying diel population dynamics of *Prochlorococcus* in the North Pacific Subtropical Gyre. *Nature Communications* 15:2105
 
-24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., *accepted*. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology* 4:1394084
+24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., 2024. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology* 4:1394084
+
+25. Kim, H., Brisson, V.L., **Casey, J.R.**, Swink, C, Rolison, K.A., Golini, A.N., Northen, T.R., Weber, P.K., Veličković, D., Buie, C.R., Mayali, X., Stuart, R.K., 2024. Spatially structured competition and cooperation alters algal carbon flow to bacteria. bioRxiv doi:10.1101/2024.06.14.598523
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
