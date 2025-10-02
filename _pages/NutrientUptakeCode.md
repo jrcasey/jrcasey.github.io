@@ -12,7 +12,7 @@ To learn more about our work on this topic, check out our PLOS Computational Bio
 What's needed to run NutrientUptake:
 
 - Genome-scale metabolic model
-- Dimensions of the transporter (check out [RaptorX](http://raptorx.uchicago.edu/) for structure prediction and [PyMol](https://pymol.org/2/) for rendering and measurement)
+- Dimensions of the transporter (check out [RaptorX](http://raptorx.uchicago.edu/) for structure prediction and [PyMol](https://pymol.org/2/) for rendering and measurement). 
 - Transporter abundance at maximum growth rate
 - Cell size
 - Maximum growth rate
