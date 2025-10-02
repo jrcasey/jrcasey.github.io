@@ -13,7 +13,7 @@ author_profile: true
 
 [PanGEM](/PanGEM/) - A pipeline for the reconstruction of strain-level genome-scale metabolic networks, using a pangenome as a template. [source](https://github.com/jrcasey/PanGEM)
 
-PheArrMe - A pipeline to guide the gapfilling of models generated with CarveMe using phenotype microarray data, including time-series absorption measurements of 'biolog-like' plates. [source](https://github.com/jrcasey/PheArrMe)
+[PheArrMe](/PheArrMe/) - A pipeline to guide the gapfilling of models generated with CarveMe using phenotype microarray data, including time-series absorption measurements of 'biolog-like' plates. [source](https://github.com/jrcasey/PheArrMe)
 
 **Genome-scale models**
 
