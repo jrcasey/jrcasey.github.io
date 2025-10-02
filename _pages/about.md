@@ -8,7 +8,7 @@ author_profile: true
 [Advisors, co-authors, collaborators](/ScienceFam/)
 
 ### Curriculum vitae
-[CV_20240517](/CV/)
+[CV_20251017](/CV/) [:floppy_disk:](assets/docs/CV_20250605.pdf) 
 
 ### Contact 
 email: casey26 at llnl dot gov  
