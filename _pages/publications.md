@@ -6,7 +6,7 @@ author_profile: true
 ---
 <a class="btn btn-rss" href="/feed.xml" target="_blank">Subscribe to my RSS feed</a>
 
-# Updated: 2024-08-07
+# Updated: 2025-10-07
 1. **Casey, J.R.**, Lomas, M.W., Mandecki, J., Walker, D.E., 2007. *Prochlorococcus* contributes to new production in the Sargasso Sea deep chlorophyll maximum. *Geophysical Research Letters* 34, L10604. [PDF](/assets/docs/Casey_2007_GRL.pdf){:target="_blank"} [Journal - copy link for DOI](https://doi.org/10.1029/2006GL028725){:target="_blank"}
 2. **Casey, J.R.**, Lomas, M.W., Michelou, V.K., Dyhrman, S.T., Ammerman, J.W., Sylvan, J.B., 2009. Taxon-specific orthophosphate and ATP utilization in the western Sargasso Sea. *Aquatic Microbial Ecology* 58, 31-44. [PDF](/assets/docs/Casey_2009_AME.pdf){:target="_blank"} [Journal - copy link for DOI](https://doi.org/10.3354/ame01348){:target="_blank"}
 3. Fawcett, S.E., Lomas, M.W., **Casey, J.R.**, Ward, B.B., Sigman, D.M., 2011. Assimilation of upwelled nitrate by small eukaryotes in the Sargasso Sea. *Nature Geoscience* 4, 1–6. [PDF](/assets/docs/Fawcett_2011_NatGeosci.pdf){:target="_blank"} [Journal - copy link for DOI](https://doi.org/10.1038/NGEO1265){:target="_blank"}
