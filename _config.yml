@@ -105,6 +105,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrcasey"
+    - label: "BlueSky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/jrcasey.bsky.social"
 
 # Site Footer
 footer:
