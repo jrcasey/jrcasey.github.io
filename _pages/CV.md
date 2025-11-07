@@ -27,7 +27,7 @@ Ph.D. Oceanography (May, 2017) Dept. of Oceanography, School of Ocean and Earth 
 
 B.S. Marine Biology, B.A. Spanish (May, 2007) College of Charleston, Charleston, SC.
 
-## Research Experience and Possitions Held
+## Positions Held
 Postdoctoral Researcher (September, 2022 - present)
 Biochemical and Biophysical Group,
 Lawrence Livermore National Laboratory, Livermore, CA.
@@ -46,7 +46,7 @@ Intern (June 2004 – July 2004). Transects Program, Skidaway Institute of Ocean
 
 Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College of Charleston, Charleston, SC.  
 
-## Refereed Scientific Publications
+## Peer-Reviewed Publications
 
 1. **Casey, J.R.**, Lomas, M.W., Mandecki, J., Walker, D.E., 2007. *Prochlorococcus* contributes to new production in the Sargasso Sea deep chlorophyll maximum. *Geophysical Research Letters* 34, L10604.  
 
@@ -96,7 +96,7 @@ Research Assistant I (October 2003- March 2004). Dept. of Microbiology, College 
 
 24. **Casey, J.R.**, Bennion, B.J., D'haeseleer, P., Kimbrel, J.A., Marschmann, G.L., Navid, A., 2024. Transporter annotations are holding up progress in metabolic modeling. *Frontiers in Systems Biology* 4:1394084
 
-25. Kim, H., Brisson, V.L., **Casey, J.R.**, Swink, C, Rolison, K.A., Golini, A.N., Northen, T.R., Weber, P.K., Veličković, D., Buie, C.R., Mayali, X., Stuart, R.K., 2025. Spatially structured competition and cooperation alters algal carbon flow to bacteria. *The ISME Journal* wraf096.
+25. Kim, H., Brisson, V.L., **Casey, J.R.**, Swink, C, Rolison, K.A., Golini, A.N., Northen, T.R., Weber, P.K., Veličković, D., Buie, C.R., Mayali, X., Stuart, R.K., 2025. Spatially structured competition and cooperation alters algal carbon flow to bacteria. *The ISME Journal* 19(1), wraf096.
 
 ## Seminars, Symposia, Workshops, and Abstracts
 
