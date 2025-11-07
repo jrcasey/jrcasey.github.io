@@ -12,7 +12,7 @@ author_profile: true
 ### Contact 
 email: casey26 at llnl dot gov  
 address:  
-Biochemical and Biophysical Systems Group  
+Biochemical and Biophysical Systems Group ✅  
 Lawrence Livermore National Laboratory  
 7000 East Avenue    
 Livermore, CA 94550
