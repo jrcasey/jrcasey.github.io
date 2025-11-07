@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Redox-selective remineralization decouples marine carbon and oxygen cycles
 permalink: /PQRQ/
 author_profile: true

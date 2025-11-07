@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: CBIOMES
 permalink: /CBIOMESResearch/
 author_profile: true

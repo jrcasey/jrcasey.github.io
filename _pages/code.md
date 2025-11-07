@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Code
 permalink: /code/
 author_profile: true

@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: PheArrMe 
 permalink: /PheArrMe/
 author_profile: true

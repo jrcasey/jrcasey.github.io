@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Science Family
 permalink: /ScienceFam/
 author_profile: true

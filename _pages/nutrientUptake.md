@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Nutrient Uptake
 permalink: /nutrientUptake/
 author_profile: true

@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: PanGEM
 permalink: /PanGEM/
 author_profile: true

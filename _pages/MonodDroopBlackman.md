@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Some thoughts about Monod, Droop and Blackman
 permalink: /MonodDroopBlackman/
 author_profile: true

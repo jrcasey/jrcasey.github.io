@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Microbial Simulation Environment
 permalink: /MSE/
 author_profile: true
