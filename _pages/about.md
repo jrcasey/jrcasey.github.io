@@ -6,7 +6,8 @@ permalink: /about/
 author_profile: true
 ---
 ### Curriculum vitae
-[CV_20251017](/CV/) [PDF](assets/docs/CV_20250605.pdf){:target="_blank" .btn .btn--success .btn--small} 
+[Web](/CV/){:target="_blank" .btn .btn--success .btn--small} 
+ [PDF](assets/docs/CV_20250605.pdf){:target="_blank" .btn .btn--info .btn--small} 
 
 ### Contact 
 email: casey26 at llnl dot gov  
