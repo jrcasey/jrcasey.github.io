@@ -106,12 +106,12 @@ author:
   location         : "Sendai, Japan"
   email            :
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/onticopen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrcasey"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/onticopen"
     - label: "BlueSky"
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/jrcasey.bsky.social"
@@ -125,12 +125,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/onticopen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrcasey"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/onticopen"
     - label: "BlueSky"
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/jrcasey.bsky.social"
