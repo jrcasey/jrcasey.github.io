@@ -9,6 +9,7 @@ author_profile: true
 Ongoing research with the Simons Foundation Collaboration on Biogeochemical Modeling 
 #### [Selective remineralization](/PQRQ/)
 <img src="/assets/images/PQRQ.jpg" alt="PQRQ figure" style="width:640px">
+
 What happens if the photosynthetic and respiratory quotients are not counter-balanced?
 
 
