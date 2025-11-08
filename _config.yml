@@ -135,6 +135,13 @@ footer:
     - label: "BlueSky"
       icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/jrcasey.bsky.social"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-8630-0551"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=8v5sn5YAAAAJ&hl=en"
+
 
 
 # Reading Files
