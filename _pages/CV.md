@@ -8,14 +8,12 @@ author_profile: false
 
 
 
-(Updated 10/17/2025)
+(Updated 12/22/2025)
 ## Correspondence
-Biochemical and Biophysical Group  
-Lawrence Livermore National Laboratory  
-7000 East Avenue    
-Livermore, CA 94550
+World Premier International Research Center Initiative - Advanced Institute for Marine Ecosystem Change (WPI-AIMEC)
+6-3 Aoba, Aramaki, Aoba-ku, Sendai 980-8578, Japan
 
-Email: casey26 at llnl dot gov  
+Email: casey *dot* john *dot* rossiter *dot* e1 *at* tohoku *dot* ac *dot* jp  
 
 ## Research Interests
 > Microbial oceanography, biogeochemical cycles, ecological stoichiometry, biological thermodynamics, modeling microbial metabolism and physiology.  
@@ -28,7 +26,11 @@ Ph.D. Oceanography (May, 2017) Dept. of Oceanography, School of Ocean and Earth 
 B.S. Marine Biology, B.A. Spanish (May, 2007) College of Charleston, Charleston, SC.
 
 ## Positions Held
-Postdoctoral Researcher (September, 2022 - present)
+Associate Professor (December, 2025 - present)
+World Premier International Research Center Initiative - Advanced Institute for Marine Ecosystem Change (WPI-AIMEC)
+Tohoku University, Sendai, Japan
+
+Postdoctoral Researcher (September, 2022 - October, 2025)
 Biochemical and Biophysical Group,
 Lawrence Livermore National Laboratory, Livermore, CA.
 

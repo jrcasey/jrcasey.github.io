@@ -10,18 +10,11 @@ author_profile: true
  [PDF](assets/docs/CV_20250605.pdf){:target="_blank" .btn .btn--info .btn--small} 
 
 ### Contact 
-email: casey26 at llnl dot gov  
+email: casey *dot* john *dot* rossiter *dot* e1 *at* tohoku *dot* ac *dot* jp  
 address:  
-Biochemical and Biophysical Systems Group  
-Lawrence Livermore National Laboratory  
-7000 East Avenue    
-Livermore, CA 94550
+6-3 Aoba, Aramaki, Aoba-ku, Sendai 980-8578 Japan
 
 ### Affiliations
-Postdoctoral Fellow  
-Biochemical and Biophysical Systems Group  
-Lawrence Livermore National Laboratory 
-
 Research Affiliate  
 School of Ocean and Earth Science and Technology  
 University of Hawai'i at Manoa  
