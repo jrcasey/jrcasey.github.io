@@ -45,8 +45,9 @@ feature_row4:
 ---
 
 ### A bit about me
-Associate Professor at the Advanced Institute for Marine Ecosystem Change, Tohoku University **[AIMEC](https://www.wpi-aimec.jp/en)**
-Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**  
+Associate Professor at the Advanced Institute for Marine Ecosystem Change, Tohoku University **[AIMEC](https://www.wpi-aimec.jp/en)**{: .notice}
+
+Research Affiliate at **[UH Mānoa](https://www.soest.hawaii.edu/soestwp/)**{: .notice-primary}  
 
 > *I'm interested in the coordination and optimization of cellular scale processes, how objectives - like fitness or entropy production - are influenced by the streams of information between tiers of biological organization, and how all this complexity is imprinted in the genetic code. I enjoy thinking about these layers of biological complexity as they relate to the ecology and biogeochemistry of the oceans.* [More](/about/)
 
